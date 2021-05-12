@@ -2,8 +2,8 @@
 //  CropTestAppDelegate.m
 //  CropTest
 //
-//  Created by Nocero Beguhe on 6/16/11.
-//  Copyright 2011 __Self-employed__. All rights reserved.
+//  Created by Nocero Beguhe on 6/16/17.
+//  Copyright 2017 ____. All rights reserved.
 //
 
 #import "CropTestAppDelegate.h"
@@ -19,7 +19,7 @@
 {
     // Override point for customization after application launch.
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    self.viewController = [[CropTestViewController alloc] initWithNibName:@"CropTestViewController" bundle:nil]; 
+    self.viewController = [[CropTestViewController alloc] initWithNibName:@"CropTestViewController" bundle:nil];
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     return YES;
@@ -36,7 +36,7 @@
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
     /*
-     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+     Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
      If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
      */
 }

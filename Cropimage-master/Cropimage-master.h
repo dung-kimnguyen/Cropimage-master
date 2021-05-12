@@ -2,8 +2,8 @@
 //  BJImageCropper.h
 //  CropTest
 //
-//  Created by Nocero Beguhe on 6/16/11.
-//  Copyright 2011 __Self-employed__. All rights reserved.
+//  Created by Nocero Beguhe on 6/16/17.
+//  Copyright 2017 ____. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
