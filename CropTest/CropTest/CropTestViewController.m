@@ -2,7 +2,7 @@
 //  CropTestViewController.m
 //  CropTest
 //
-//  Created by Nocero Beguhe on 6/16/17.
+//  Created by Dung Kim Nguyen on 6/16/17.
 //  Copyright 2017 ____. All rights reserved.
 //
 

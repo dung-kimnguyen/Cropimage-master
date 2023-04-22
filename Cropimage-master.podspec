@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "http://www.barrettj.com"
   s.license      = 'MIT'
-  s.author       = { "Nocero Beguhe" => "admin@barrettj.com" }
+  s.author       = { "Dung Kim Nguyen" => "admin@barrettj.com" }
   s.source       = { :git => "https://github.com/barrettj/BJImageCropper.git", :tag => "1.0.2" }
   s.platform     = :ios, '4.3'
   s.source_files = 'BJImageCropper'

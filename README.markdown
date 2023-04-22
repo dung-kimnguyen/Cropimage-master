@@ -1,6 +1,6 @@
 A simple UIView subclass that allows a user to crop an image. If you use it, I'd love to know!
 
-Copyright  Nocero Beguhe
+Copyright  Dung Kim Nguyen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
